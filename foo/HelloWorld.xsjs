@@ -1,2 +1,0 @@
-$.response.setBody("Hello SAPphire ");
- 
